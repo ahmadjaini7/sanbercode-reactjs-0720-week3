@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* CSS Tambahan */
+ .bold {
+   font-weight: bold;
+   text-align: center;
+ }
+ .center {
+   align-content: center;
+ }
+ .atas {
+   background-color: rgba(189, 189, 189, 0.925);
+ }
+
+ .bawah {
+  background-color: rgba(252, 236, 22, 0.897);
+}
